@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CiclodeVidaGPSeMapas</string>
+    <string name="action_settings">Settings</string>
+    <string name="no_gps_no_app">Sem o GPS o aplicativo não funciona</string>
+</resources>
